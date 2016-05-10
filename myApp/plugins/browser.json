@@ -1,0 +1,76 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "phoneProject"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "phoneProject"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "phoneProject"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "phoneProject"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "phoneProject"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "phoneProject"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "phoneProject"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "phoneProject"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "phoneProject"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "phoneProject"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "phoneProject"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "phoneProject"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "phoneProject"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "phoneProject"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "phoneProject"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "phoneProject"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "phoneProject"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "phoneProject"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "phoneProject"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "phoneProject"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "phoneProject"
+        }
+    }
+}
